@@ -11,6 +11,7 @@ body {
 
 form {
   padding: 20px;
+  padding-top: 5px;
   background-color: white;
   border-radius: 20px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
@@ -48,4 +49,9 @@ form {
 .button {
     text-align: center;
     margin-top: 3%;
+}
+.formHeading{
+    font-size: 35px;
+    text-align: center;
+    color: #092f5a;
 }
