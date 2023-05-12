@@ -13,22 +13,48 @@
         <h3 class="formHeading">Basic Form</h3>
         <div class="inputfield">
           <label>First Name</label>
-          <input type="text" required name="firstName" />
+          <input
+            type="text"
+            required
+            name="firstName"
+            placeholder="Enter your firstName"
+          />
           <br />
         </div>
         <div class="inputfield">
           <label>Last Name</label>
-          <input type="text" required name="lastName" />
+          <input
+            type="text"
+            required
+            name="lastName"
+            placeholder="Enter your lastName"
+          />
           <br />
         </div>
         <div class="inputfield">
           <label>Email</label>
-          <input type="email" required name="email" />
+          <input
+            type="email"
+            required
+            name="email"
+            placeholder="Enter your email"
+          />
           <br />
         </div>
         <div class="inputfield">
           <label>D.O.B</label>
-          <input type="date" required name="dateOfBirth" />
+          <input type="date" required name="dateOfBirth" max="2023-05-12" />
+          <br />
+        </div>
+        <div class="inputfield">
+          <label>Mobile No.</label>
+          <input
+            type="text"
+            required
+            pattern="[6789][0-9]{9}"
+            title="valid mobile number"
+            placeholder="Enter your mobile number"
+          />
           <br />
         </div>
         <div class="inputRadio">
