@@ -1,0 +1,152 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ismail Bohra",
+    "label": "Full Stack Developer",
+    "email": "ismailbohra99@gmail.com",
+    "phone": "+91 702320086",
+    "website": "https://www.linkedin.com/in/ismailbohraa",
+    "summary": "Dedicated MERN Stack Developer with a passion for creating efficient and user-friendly web applications. Seeking a full-stack developer position to leverage my skills and experience in building innovative software solutions.",
+    "location": {
+      "address": "Indore, Madhya Pradesh, India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ismailbohraa"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/ismailbohra"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OEPP Innovation Pvt Ltd",
+      "location": "Indore, Madhya Pradesh, India",
+      "position": "Node.js Intern",
+      "startDate": "June 2023",
+      "endDate": "Present",
+      "summary": "Implemented ClickSend integration for messaging, Knex, and Sequelize for efficient database operations. Successfully migrated old data from Excel to SQL and mapped them for improved data management. Contributed to a project by implementing search and orderby logic for data retrieval and management."
+    },
+    {
+      "name": "Institute of Engineering & Science, IPS ACADEMY",
+      "location": "Indore, Madhya Pradesh, India",
+      "position": "Full Stack Developer Intern",
+      "startDate": "October 2022",
+      "endDate": "Present",
+      "summary": "Expanded campus management system that tracks academic events and reduced paperwork by 90%. Leading development of the Institute's Autonomous System, which serves approximately 10,000 students and over 500 faculties. Updated 60% of previously built system according to Institute's Autonomous Rules."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institute of Engineering & Science, IPS ACADEMY",
+      "location": "Indore, Madhya Pradesh, India",
+      "studyType": "Bachelors Of Technology",
+      "area": "Computer Science and Engineering (AI & ML)",
+      "startDate": "July 2022",
+      "endDate": "Present",
+      "gpa": "9.56/10"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Fluent"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C/C++",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Javascript",
+      "level": "Advanced"
+    },
+    {
+      "name": "HTML",
+      "level": "Advanced"
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced"
+    },
+    {
+      "name": "Reactjs",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Nextjs",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Expressjs",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Nodejs",
+      "level": "Intermediate"
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate"
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Android Studio",
+      "level": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Inventory Management System",
+      "description": "Developed an Inventory Management System using the MERN stack. Implemented features for tracking inventory, managing orders, and generating reports.",
+      "highlights": [
+        "Led the development of an Inventory Management app for a company, facilitating purchase order and package tracking.",
+        "Built RESTful APIs using Node.js and Express.js for seamless integration of front-end and back-end.",
+        "Implemented MongoDB for efficient storage and retrieval of inventory data."
+      ],
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      "url": "",
+      "roles": ["Full Stack Developer"]
+    },
+    {
+      "name": "Order Tracking Application",
+      "description": "Contributed to the development of an Order Tracking Application, enabling real-time tracking and status updates for clients' orders.",
+      "highlights": [
+        "Developed a B2B-focused Order Tracking Application using the MERN stack, catering to the specific needs of businesses and their clients.",
+        "Implemented a secure and scalable authentication system, allowing businesses to manage multiple user roles and permissions within their organizations."
+      ],
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-01",
+      "url": "",
+      "roles": ["Full Stack Developer"]
+    }
+  ]
+}
